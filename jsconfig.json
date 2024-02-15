@@ -1,0 +1,7 @@
+{
+  "compilerOptions": {
+    "paths": {
+      "@cct/*": ["./src/*"]
+    }
+  }
+}
